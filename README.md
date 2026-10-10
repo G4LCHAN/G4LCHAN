@@ -2,14 +2,13 @@
 
 <div align="center">
          
-<img src="https://www.image2url.com/r2/default/images/1790727163675-003a285e-8d76-41ed-bbc4-e5da0637d0b0.png" alt="image" />
+<img src="https://www.image2url.com/r2/default/images/1791647025225-57821206-da5d-4f2a-b7df-36eab8c827db.png" alt="image" />
   </div>
 
 </div>
  <div align="center">        
 ♡
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Newsreader&size=25&pause=1000&color=8C8C8C&width=435&lines=%22I+see+now..In+the+palm+of+my+hand%22;%22...is+a+heart.%22" alt="Typing SVG" /></a>
 
 <a href="https://miwacat.atabook.org" target="_blank">ata<3
 

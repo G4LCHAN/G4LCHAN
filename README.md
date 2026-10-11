@@ -1,8 +1,10 @@
-         
 
 <div align="center">
+
+![Followers](https://img.shields.io/github/followers/G4LCHAN?style=flat&labelColor=b26857&color=ffe9a8)
+
          
-<img src="https://www.image2url.com/r2/default/images/1791725854719-f07ab802-388f-422c-b758-a018c1289456.png" width="1000" alt="image" />
+<img src="https://www.image2url.com/r2/default/images/1791725854719-f07ab802-388f-422c-b758-a018c1289456.png" height="9000" alt="image" />
   </div>
 
 </div>

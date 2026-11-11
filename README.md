@@ -39,7 +39,7 @@ please don't take it personally if I don't respond right away ♡
 
 
 <p align="center">
-  <a href="https://ratcheewww.straw.page/">
+  <a href="https://grimesboy.straw.page/">
     <img src="https://i.imgur.com/rQMfRwV.png"/>
   </a>
 </p>
